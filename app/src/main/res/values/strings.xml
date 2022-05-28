@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L10_ArrayList</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="enter_person_name">Enter person name</string>
+    <string name="enter_a_person_name">Enter a Person name</string>
+
+</resources>
